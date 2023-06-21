@@ -20,7 +20,7 @@ Driver Page
 
 Technologies Used
 
-    Frontend: React, HTML, CSS
+    Frontend: React, Tailwind CSS
     Backend: Express, Node.js
     Database: MongoDB
 
